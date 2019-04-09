@@ -1,0 +1,36 @@
+.navbar{
+	border: 2px solid black;
+}
+.bg-color{
+	background-color: grey;
+}
+.text-center.font-weight-bold{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 30px;
+  height: 6px;
+  background-color: black;
+  border-radius: 1px;
+  margin-bottom: 7px;
+}
+button{
+	background-color: grey;
+	border: 2px solid black;
+	padding-top: 5px;
+	vertical-align: center;
+	float: right;
+	border-radius: 4px;
+}
+.navbar-collapse li{
+	border-bottom: 2px solid black;
+}
+[href="#top"],[href="#top"]:hover{
+	float: right;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-bottom: 10px;
+	background-color: green;
+	color: white;
+}
